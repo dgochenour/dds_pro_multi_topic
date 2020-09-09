@@ -1,0 +1,5 @@
+**/obj
+**/generated
+**/build
+
+.vscode

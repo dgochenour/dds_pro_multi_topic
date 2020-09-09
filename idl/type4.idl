@@ -1,0 +1,9 @@
+module my_app {
+    
+    struct type4 {
+        long id; //@key
+        string<128> name;
+        long value;
+    };
+    
+};

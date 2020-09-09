@@ -1,0 +1,10 @@
+module my_app {
+    
+    struct type2 {
+        long id; //@key
+        double x;
+        double y;
+        double z;
+    };
+    
+};

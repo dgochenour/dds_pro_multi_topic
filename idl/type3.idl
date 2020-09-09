@@ -1,0 +1,8 @@
+module my_app {
+    
+    struct type3 {
+        long id; //@key
+        double value;
+    };
+    
+};

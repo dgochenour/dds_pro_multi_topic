@@ -1,0 +1,8 @@
+module my_app {
+    
+    struct type1 {
+        long                  id;    //@key
+        string<128>           msg;
+    };
+    
+};
