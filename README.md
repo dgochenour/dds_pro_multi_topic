@@ -63,8 +63,8 @@ $ source <your install location>/rti_connext_dds-6.0.1/resource/scripts/rtiseten
 3) Run rtisetenv_x64Linux4gcc7.3.0.bash as you did in the build shell
 4) Run the two generated applications, one per shell:
     
-    $ ./objs/x64Linux4gcc7.3.0/node_one 
-    $ ./objs/x64Linux4gcc7.3.0/node_two 
+    `$ ./objs/x64Linux4gcc7.3.0/node_one` 
+    `$ ./objs/x64Linux4gcc7.3.0/node_two` 
 
 (the applications can be stopped with Ctrl-C)
 
