@@ -66,7 +66,7 @@ $ source <your install location>/rti_connext_dds-6.0.1/resource/scripts/rtiseten
     $ ./objs/x64Linux4gcc7.3.0/node_one 
     $ ./objs/x64Linux4gcc7.3.0/node_two 
 
-    - the applications can be stopped with Ctrl-C
+(the applications can be stopped with Ctrl-C)
 
 # Current limitations
 
